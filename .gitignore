@@ -1,0 +1,8 @@
+
+#Ignore pdfs from the repo
+*.pdf
+
+#Ignopre any file name starting with abc
+
+[abc]*.docx
+
