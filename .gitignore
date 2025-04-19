@@ -3,6 +3,6 @@
 *.pdf
 
 #Ignopre any file name starting with abc
-
 [abc]*.docx
 
+*.jar
