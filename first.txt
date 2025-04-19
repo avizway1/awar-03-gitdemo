@@ -1,3 +1,2 @@
 THis is my first file with git
 
-THis is my second edit
